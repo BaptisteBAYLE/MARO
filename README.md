@@ -2,7 +2,7 @@
 
 Pour lancer les différentes résolutions :   
 
-Les trois fichiers à executer sont :
+## Les trois fichiers à executer sont :
 - genetique.py
 - recuit.py
 - tabu_research.py
@@ -13,7 +13,7 @@ Il faut simplement modifier les paramètre de résolution en haut tels que :
 - Temps de résolution 
 - Paramètres spéifiques à chaque méthode
 
-Les meilleurs solutions obtenues sont :
+## Les meilleurs solutions obtenues sont :
 
 - pb 11 : 1 592
 - pb 21 : 2 304
