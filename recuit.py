@@ -13,8 +13,8 @@ probleme = 31
 
 max_research_time = 10 # Temps en seconde
 max_local_search_time = 5 # Temps en seconde
-alpha = 0.01
-beta = 1.5
+alpha = 0.01 # Probabilité de choisir une solution si elle est moins bonne
+beta = 1.5 # Limite maximum d'augmentation de la valeur d la solution
 type_voisin = 'deplacement' # 'deplacement' ou 'permutation' ou 'genetique'
 len_historique = 1
 
