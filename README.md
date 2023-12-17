@@ -11,7 +11,7 @@ Il faut simplement modifier les paramètre de résolution en haut tels que :
 
 - Nom du problème 
 - Temps de résolution 
-- Paramètres spéifiques à chaque méthode
+- Paramètres spécifiques à chaque méthode
 
 ## Les meilleurs solutions obtenues sont :
 
